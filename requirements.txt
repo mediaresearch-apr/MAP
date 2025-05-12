@@ -1,6 +1,3 @@
 streamlit
 pandas
-json
-io
-os
-uuid
+xlsxwriter
